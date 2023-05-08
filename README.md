@@ -1,1 +1,5 @@
-This file will be overwritten by `index.ipynb`
+
+# Getting to know nbdev
+
+* [nbdev tutorial](https://nbdev.fast.ai/tutorial.html)
+
