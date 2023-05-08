@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_hello_world"
+  site-url: "https://andreas-secret.github.io/nbdev_hello_world"
+  description: ""Hello world" with nbdev to learn some of its features"
+  repo-branch: master
+  repo-url: "https://github.com/andreas-secret/nbdev_hello_world"
